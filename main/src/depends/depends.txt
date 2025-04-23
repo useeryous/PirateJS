@@ -1,3 +1,0 @@
-this is were you put your depends in pirateJS its full of proxies and other
-nettools. heres a list of nettools and proxies used
-
