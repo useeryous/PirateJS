@@ -1,0 +1,3 @@
+parts are like lego pieces used to built bigger and greater components.
+here is a list of parts that can be used and have docs explaining what they docs
+

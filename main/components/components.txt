@@ -1,0 +1,4 @@
+components are the main conerstones to a good website here you build components and add them to main index.js
+heres some rules to follow
+
+1. 
