@@ -12,6 +12,9 @@ function mainPage() {
     body.style.justifyContent = 'center';
     body.appendChild(logo);
     body.appendChild(title);
+    return body;
 }
 
-export default mainPage;
+export default {
+    mainPage
+};

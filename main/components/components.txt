@@ -1,4 +1,6 @@
 components are the main conerstones to a good website here you build components and add them to main index.js
 heres some rules to follow
 
-1. 
+1. make sure that it isnt boiler plate code
+
+2. make sure it can work with the other components and parts
