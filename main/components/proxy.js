@@ -1,1 +1,1 @@
-import { } from './parts/'
+import { } from './parts/simple.js'
