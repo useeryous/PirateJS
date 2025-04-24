@@ -1,8 +1,9 @@
 {
     "compilerOptions": {
-        "target": "es2021",
-        "lib": ["es2021", "dom"],
+        "module": "System",
         "declaration": true
-
-    }
+    },
+    "files": [
+        "src/ts-files/index.ts"
+    ]
 }
