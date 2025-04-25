@@ -1,9 +1,0 @@
-{
-    "compilerOptions": {
-        "module": "System",
-        "declaration": true
-    },
-    "files": [
-        "src/ts-files/index.ts"
-    ]
-}
